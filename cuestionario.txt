@@ -1,5 +1,6 @@
 Por qué un lenguaje de programación sólo puede utilizarse en algunos 
 sistemas operativos y en otros no?
+
 Basicamente porque dicho lenguaje de programación fue diseñado para un 
 sistema operativo específico, por ejemplo, el lenguaje de programación máquina,
 el cual no solo sólo depende de un SO en específico, sino también de una 
