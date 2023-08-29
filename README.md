@@ -1,1 +1,2 @@
-# clase-maq-virtuales
+# Máquinas Virtuales
+Cuestionario desarrollado en `cuestionario.txt`
